@@ -1,0 +1,454 @@
+{
+  "dogs": [
+    {
+      "id": "rPPXviq7",
+      "url": "https://cdn2.thedogapi.com/images/Sy57xx9EX_1280.jpg",
+      "name": "Winston",
+      "breed": "Basset Hound",
+      "age": 9,
+      "weight": 28,
+      "sex": "male"
+    },
+    {
+      "id": "t4NliA7z",
+      "url": "https://cdn2.thedogapi.com/images/rkVlblcEQ_1280.jpg",
+      "name": "Baby",
+      "breed": "Briard",
+      "age": 2,
+      "weight": 35,
+      "sex": "female"
+    },
+    {
+      "id": "qe2qLAhB",
+      "url": "https://cdn2.thedogapi.com/images/r15m-lc4m_1280.jpg",
+      "name": "Bandit",
+      "breed": "Cane Corso",
+      "age": 6,
+      "weight": 52,
+      "sex": "male"
+    },
+    {
+      "id": "GS7IiOdr",
+      "url": "https://cdn2.thedogapi.com/images/B1pDZx9Nm_1280.jpg",
+      "name": "Willow",
+      "breed": "Chinese Crested",
+      "age": 4,
+      "weight": 6,
+      "sex": "female"
+    },
+    {
+      "id": "dLQ7OhAa",
+      "url": "https://cdn2.thedogapi.com/images/HkRcZe547_1280.jpg",
+      "name": "Belle",
+      "breed": "Cocker Spaniel (American)",
+      "age": 7,
+      "weight": 14,
+      "sex": "female"
+    },
+    {
+      "id": "wT6G69gy",
+      "url": "https://cdn2.thedogapi.com/images/SyviZlqNm_1280.jpg",
+      "name": "Rosie",
+      "breed": "Coton de Tulear",
+      "age": 14,
+      "weight": 6,
+      "sex": "female"
+    },
+    {
+      "id": "HL89hBZR",
+      "url": "https://cdn2.thedogapi.com/images/SkJfGecE7_1280.jpg",
+      "name": "Maya",
+      "breed": "Field Spaniel",
+      "age": 4,
+      "weight": 20,
+      "sex": "female"
+    },
+    {
+      "id": "5JbB468P",
+      "url": "https://cdn2.thedogapi.com/images/SJyBfg5NX_1280.jpg",
+      "name": "Rex",
+      "breed": "German Shepherd Dog",
+      "age": 1,
+      "weight": 25,
+      "sex": "male"
+    },
+    {
+      "id": "GhIouhzX",
+      "url": "https://cdn2.thedogapi.com/images/SJqBMg5Nm_1280.jpg",
+      "name": "Murphy",
+      "breed": "German Shorthaired Pointer",
+      "age": 3,
+      "weight": 20,
+      "sex": "male"
+    },
+    {
+      "id": "NvshKHXc",
+      "url": "https://cdn2.thedogapi.com/images/B1uW7l5VX_1280.jpg",
+      "name": "Brady",
+      "breed": "Labrador Retriever",
+      "age": 8,
+      "weight": 32,
+      "sex": "male"
+    },
+    {
+      "id": "bNUZs76W",
+      "url": "https://cdn2.thedogapi.com/images/B12BnxcVQ_1280.jpg",
+      "name": "Diesel",
+      "breed": "Yorkshire Terrier",
+      "age": 4,
+      "weight": 2,
+      "sex": "male"
+    },
+    {
+      "id": "PIOlzEtb",
+      "url": "https://cdn2.thedogapi.com/images/42QrDrylc.jpg",
+      "name": "Elvis",
+      "breed": "Alaskan Malamute",
+      "age": 10,
+      "weight": 37,
+      "sex": "male"
+    },
+    {
+      "id": "wRU5VNlL",
+      "url": "https://cdn2.thedogapi.com/images/WIf5o1E8h.jpg",
+      "name": "Mac",
+      "breed": "Afghan Hound",
+      "age": 0,
+      "weight": 27,
+      "sex": "male"
+    },
+    {
+      "id": "KP3xBTVH",
+      "url": "https://cdn2.thedogapi.com/images/12nMI642l.jpg",
+      "name": "Riley",
+      "breed": "Afghan Hound",
+      "age": 1,
+      "weight": 27,
+      "sex": "female"
+    },
+    {
+      "id": "C2_qhGoS",
+      "url": "https://cdn2.thedogapi.com/images/1-7cgoZSh.jpg",
+      "name": "Jasper",
+      "breed": "Airedale Terrier",
+      "age": 5,
+      "weight": 21,
+      "sex": "male"
+    },
+    {
+      "id": "cjAiIiXQ",
+      "url": "https://cdn2.thedogapi.com/images/IyR0sT3yy.jpg",
+      "name": "Lacey",
+      "breed": "Akita",
+      "age": 12,
+      "weight": 38,
+      "sex": "female"
+    },
+    {
+      "id": "qK-7Hude",
+      "url": "https://cdn2.thedogapi.com/images/H6UCIZJsc.jpg",
+      "name": "Spike",
+      "breed": "Akita",
+      "age": 11,
+      "weight": 41,
+      "sex": "male"
+    },
+    {
+      "id": "U_b_R8p4",
+      "url": "https://cdn2.thedogapi.com/images/BFRYBufpm.jpg",
+      "name": "Honey",
+      "breed": "Akita",
+      "age": 11,
+      "weight": 47,
+      "sex": "female"
+    },
+    {
+      "id": "beVd7gVA",
+      "url": "https://cdn2.thedogapi.com/images/uEPB98jBS.jpg",
+      "name": "Rudy",
+      "breed": "Alaskan Husky",
+      "age": 5,
+      "weight": 21,
+      "sex": "male"
+    },
+    {
+      "id": "sIVKxmlQ",
+      "url": "https://cdn2.thedogapi.com/images/xAo4Tfbyg.jpg",
+      "name": "Angel",
+      "breed": "Australian Cattle Dog",
+      "age": 14,
+      "weight": 25,
+      "sex": "female"
+    },
+    {
+      "id": "Ia29R7Si",
+      "url": "https://cdn2.thedogapi.com/images/yxsOLj-GU.jpg",
+      "name": "Brandy",
+      "breed": "Bearded Collie",
+      "age": 1,
+      "weight": 24,
+      "sex": "female"
+    },
+    {
+      "id": "kvH8Y-aW",
+      "url": "https://cdn2.thedogapi.com/images/eHenFc9qF.jpg",
+      "name": "Simba",
+      "breed": "Bearded Collie",
+      "age": 5,
+      "weight": 23,
+      "sex": "male"
+    },
+    {
+      "id": "cJLevhDV",
+      "url": "https://cdn2.thedogapi.com/images/BjFmVohkU.jpg",
+      "name": "Athena",
+      "breed": "Bearded Collie",
+      "age": 14,
+      "weight": 22,
+      "sex": "female"
+    },
+    {
+      "id": "QbL99Qe3",
+      "url": "https://cdn2.thedogapi.com/images/iYNlO0y4T.jpg",
+      "name": "Maggie",
+      "breed": "Bearded Collie",
+      "age": 12,
+      "weight": 22,
+      "sex": "female"
+    },
+    {
+      "id": "3p0ckD19",
+      "url": "https://cdn2.thedogapi.com/images/XzvYXKK4K.jpg",
+      "name": "Bo",
+      "breed": "Border Collie",
+      "age": 12,
+      "weight": 15,
+      "sex": "male"
+    },
+    {
+      "id": "xbdLxRxl",
+      "url": "https://cdn2.thedogapi.com/images/SnbUh5ntS.jpg",
+      "name": "Gracie",
+      "breed": "Border Collie",
+      "age": 8,
+      "weight": 15,
+      "sex": "female"
+    },
+    {
+      "id": "qOyD85mk",
+      "url": "https://cdn2.thedogapi.com/images/Y93YeHDPL.jpg",
+      "name": "Shadow",
+      "breed": "Bull Terrier",
+      "age": 8,
+      "weight": 29,
+      "sex": "female"
+    },
+    {
+      "id": "2EzvC5AD",
+      "url": "https://cdn2.thedogapi.com/images/AKir88WB_.jpg",
+      "name": "Jax",
+      "breed": "Bull Terrier",
+      "age": 1,
+      "weight": 29,
+      "sex": "male"
+    },
+    {
+      "id": "AvzoZeyL",
+      "url": "https://cdn2.thedogapi.com/images/IdxyFpJdv.jpg",
+      "name": "Stella",
+      "breed": "Bull Terrier",
+      "age": 1,
+      "weight": 25,
+      "sex": "female"
+    },
+    {
+      "id": "a5s_0ONj",
+      "url": "https://cdn2.thedogapi.com/images/UuDd-Gb0j.jpg",
+      "name": "Finn",
+      "breed": "Chesapeake Bay Retriever",
+      "age": 10,
+      "weight": 26,
+      "sex": "male"
+    },
+    {
+      "id": "Jo7Jt4-l",
+      "url": "https://cdn2.thedogapi.com/images/MDo8TFF2I.jpg",
+      "name": "Zeus",
+      "breed": "Cocker Spaniel",
+      "age": 2,
+      "weight": 10,
+      "sex": "male"
+    },
+    {
+      "id": "wR-5x2f0",
+      "url": "https://cdn2.thedogapi.com/images/tbAyBgK6L.jpg",
+      "name": "Walter",
+      "breed": "Kooikerhondje",
+      "age": 12,
+      "weight": 12,
+      "sex": "male"
+    },
+    {
+      "id": "cHQJQHzO",
+      "url": "https://cdn2.thedogapi.com/images/ooXgHah90.jpg",
+      "name": "Pepper",
+      "breed": "Kooikerhondje",
+      "age": 13,
+      "weight": 12,
+      "sex": "female"
+    },
+    {
+      "id": "jkfAs4Zc",
+      "url": "https://cdn2.thedogapi.com/images/mAdKLn7Rv.jpg",
+      "name": "Pebbles",
+      "breed": "Kooikerhondje",
+      "age": 3,
+      "weight": 12,
+      "sex": "female"
+    },
+    {
+      "id": "9pfMClvQ",
+      "url": "https://cdn2.thedogapi.com/images/omhpknDX6.jpg",
+      "name": "Mac",
+      "breed": "Kooikerhondje",
+      "age": 8,
+      "weight": 9,
+      "sex": "male"
+    },
+    {
+      "id": "EVoi5U2A",
+      "url": "https://cdn2.thedogapi.com/images/5ehdkGpsY.jpg",
+      "name": "Bailey",
+      "breed": "Kooikerhondje",
+      "age": 11,
+      "weight": 14,
+      "sex": "female"
+    },
+    {
+      "id": "ch-lY7I4",
+      "url": "https://cdn2.thedogapi.com/images/6CFLgAYVH.jpg",
+      "name": "Chester",
+      "breed": "Saint Bernard",
+      "age": 5,
+      "weight": 79,
+      "sex": "male"
+    },
+    {
+      "id": "27CN5hm3",
+      "url": "https://cdn2.thedogapi.com/images/12GTwG4Bj.jpg",
+      "name": "Jackson",
+      "breed": "Saluki",
+      "age": 13,
+      "weight": 22,
+      "sex": "male"
+    },
+    {
+      "id": "hNow6XJB",
+      "url": "https://cdn2.thedogapi.com/images/k4WVD0wfC.jpg",
+      "name": "Sophie",
+      "breed": "Saluki",
+      "age": 12,
+      "weight": 24,
+      "sex": "female"
+    },
+    {
+      "id": "iE60IZoe",
+      "url": "https://cdn2.thedogapi.com/images/4aJ37urBz.jpg",
+      "name": "Lily",
+      "breed": "Saluki",
+      "age": 3,
+      "weight": 16,
+      "sex": "female"
+    },
+    {
+      "id": "W5pGCbOy",
+      "url": "https://cdn2.thedogapi.com/images/6jNaXEFxv.jpg",
+      "name": "Tucker",
+      "breed": "Saluki",
+      "age": 9,
+      "weight": 27,
+      "sex": "male"
+    },
+    {
+      "id": "F4rXd5Zp",
+      "url": "https://cdn2.thedogapi.com/images/rbPXSCiYx.jpg",
+      "name": "Zoe",
+      "breed": "Shiba Inu",
+      "age": 2,
+      "weight": 9,
+      "sex": "female"
+    },
+    {
+      "id": "5VcElvEU",
+      "url": "https://cdn2.thedogapi.com/images/fHVBn5VTk.jpg",
+      "name": "Brady",
+      "breed": "Shiba Inu",
+      "age": 0,
+      "weight": 8,
+      "sex": "male"
+    },
+    {
+      "id": "jF7bkkFp",
+      "url": "https://cdn2.thedogapi.com/images/8Fs-5iUCH.jpg",
+      "name": "Brandy",
+      "breed": "Shiba Inu",
+      "age": 9,
+      "weight": 9,
+      "sex": "female"
+    },
+    {
+      "id": "SzI4JJ73",
+      "url": "https://cdn2.thedogapi.com/images/4hsn54Wod.jpg",
+      "name": "Lulu",
+      "breed": "Shiba Inu",
+      "age": 6,
+      "weight": 10,
+      "sex": "female"
+    },
+    {
+      "id": "FJGl9POQ",
+      "url": "https://cdn2.thedogapi.com/images/GlfNCIUjz.jpg",
+      "name": "Jake",
+      "breed": "Shiba Inu",
+      "age": 10,
+      "weight": 10,
+      "sex": "male"
+    },
+    {
+      "id": "hM8oeA2w",
+      "url": "https://cdn2.thedogapi.com/images/8A6xdRWNR.jpg",
+      "name": "Marley",
+      "breed": "Shiba Inu",
+      "age": 6,
+      "weight": 9,
+      "sex": "female"
+    },
+    {
+      "id": "R-RTAV0E",
+      "url": "https://cdn2.thedogapi.com/images/ygzwOZd_L.jpg",
+      "name": "Champ",
+      "breed": "Shiba Inu",
+      "age": 15,
+      "weight": 10,
+      "sex": "male"
+    },
+    {
+      "id": "jMzoKP2R",
+      "url": "https://cdn2.thedogapi.com/images/YavuF9onG.jpg",
+      "name": "Coco",
+      "breed": "Tibetan Terrier",
+      "age": 13,
+      "weight": 10,
+      "sex": "female"
+    },
+    {
+      "id": "YFc6XKcm",
+      "url": "https://cdn2.thedogapi.com/images/ZkpNcWUTY.jpg",
+      "name": "Oscar",
+      "breed": "Tibetan Terrier",
+      "age": 15,
+      "weight": 11,
+      "sex": "male"
+    }
+  ]
+}

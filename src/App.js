@@ -1,24 +1,28 @@
-import logo from './logo.svg';
-import './App.css';
+import { Route, Switch } from "react-router-dom";
+import ShopNavbar from "./components/ShopNavbar";
+import DogBoard from "./components/DogBoard";
+import RegisterDog from "./components/RegisterDog"
+import DogDetail from "./components/DogDetail";
+import { Container } from "react-bootstrap";
+import AdoptDog from "./components/AdoptDog";
+
+// import { modalContext } from "./context/modalContext"
 
 function App() {
+  // const { id, show, showModal, hideModal } = useContext(modalContext)
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Container>
+      <ShopNavbar />
+      <Switch>
+        <Route exact path="/dogs" component={DogBoard} />
+        <Route exact path="/dogs/:id" component={DogDetail} />
+        <Route exact path="/offer" component={RegisterDog} />
+        <Route exact path="/adopt" component={AdoptDog} />
+        <Route exact path="/adopt/:id/:name" component={AdoptDog} />
+        {/* <Route exact path="/" component={DogBoard} showModal={showModal} /> */}
+      </Switch>
+      {/* <DogDetail show={show} hideModal={hideModal}/> */}
+    </Container>
   );
 }
 
